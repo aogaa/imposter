@@ -4,19 +4,24 @@ Nyeste øverst. Oppdateres ved slutten av hver arbeidsøkt (se `agent.md`).
 
 ## Status nå
 
-**Fase:** 0, oppstart. Dokumentasjon ferdig, ingen kode ennå.
+**Fase:** 1, spillbar prototype. Expo-prosjekt, spillmotor og utkast til ordlister er på plass. Ingen spillskjermer ennå.
 
 **Neste steg:**
-1. Sett opp Expo-prosjekt (TypeScript, Expo Router, i18next) og få en tom app til å kjøre i nettleseren.
-2. Skriv spillmotoren i `src/game/` med tester: trekk roller, velg ord, Undercover-ordpar, Mr. White.
-3. Lag første ordliste-utkast (6 gratis kategorier) i `content/no/` for Espens godkjenning.
-4. Bygg skjermflyten: spillere → innstillinger → send telefonen rundt → ledetråder → avstemning → resultat.
+1. Espen går gjennom ordlisteutkastene (se `content/no/STATUS.md`). Rett opp etter tilbakemelding.
+2. Bygg skjermflyten: velg modus og kategorier → spillere → innstillinger → send telefonen rundt (vis rolle) → hvem starter → diskusjon med tidtaker → avstemning → avsløring/gjetting → resultat.
+3. Lagre spillere, innstillinger og brukte ord lokalt (Zustand + AsyncStorage er installert).
 
 **Åpne spørsmål:** Endelig navn på spillet (arbeidsnavn: Imposter).
 
 **Blokkert av:** Ingenting.
 
 ## Logg
+
+### 2026-10-10: Fase 1 startet
+- Expo SDK 57 med TypeScript, Expo Router (`src/app/`), i18next (norsk + engelsk UI), Zustand og AsyncStorage.
+- Spillmotor i `src/game/`: oppsett, trekking av ord uten gjentakelse, roller for Klassisk og Undercover, ingen imposter to runder på rad, avstemning, gjetting og vinner. 21 tester.
+- Utkast til 6 gratis ordlister i `content/no/` (308 ord med hint og undercover-ord) og valideringsskript.
+- Startskjerm som viser moduser og kategorier (bekreftet i nettleser).
 
 ### 2026-10-10: Oppstart
 - Researchrapport ferdig (`docs/research.md`).

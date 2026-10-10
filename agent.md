@@ -28,19 +28,42 @@ Et norsk-først sosialt bløffespill i Imposter-sjangeren (alle unntatt én får
 - Kjøp: RevenueCat (engangskjøp / non-consumable)
 - i18n: `i18next` + `expo-localization`
 - Lagring lokalt på enheten (ingen konto, ingen server i v1)
-- Testing underveis: i nettleser først (`npx expo start --web`), deretter Expo Go på telefon
+- Testing underveis: i nettleser først (`npm run web`), deretter Expo Go på telefon
+- Tester: Jest (`jest-expo`)
 
-## Mappestruktur (planlagt)
+## Mappestruktur
 
 ```
-app/            Skjermer (Expo Router)
+src/app/        Skjermer (Expo Router: hver fil er en rute, _layout.tsx er navigasjon)
 src/game/       Spillmotor: roller, trekking, runder, avstemning (ren TS, testbar)
-src/i18n/       Oppsett og UI-tekster per språk (no, en, ...)
-src/store/      Tilstand og lagring
-src/purchases/  RevenueCat-integrasjon
-content/no/     Ordlister på norsk (JSON)
+src/i18n/       i18next-oppsett og UI-tekster per språk (locales/no.ts er referansen)
+src/content/    Laster ordlistene for valgt språk
+src/constants/  Farger og avstander (fra docs/design.md)
+content/no/     Ordlister på norsk (JSON), status i content/no/STATUS.md
+scripts/        Hjelpeskript, f.eks. validering av ordlister
 docs/           Produkt, beslutninger, design, innhold, monetisering
 ```
+
+## Kommandoer
+
+```bash
+npm install
+npm run web               # start i nettleser
+npm start                 # start for telefon (Expo Go)
+npm test                  # Jest-tester for spillmotoren
+npm run typecheck         # TypeScript
+npm run lint              # ESLint
+npm run validate-content  # sjekk ordlistene
+```
+
+Kjør `test`, `typecheck`, `lint` og `validate-content` før hver push.
+
+## Expo-tips
+
+- Expo SDK 57. Expo endrer API-er mellom versjoner: sjekk dokumentasjonen for riktig versjon (https://docs.expo.dev/versions/v57.0.0/) før du bruker et Expo-API.
+- Legg til pakker med `npx expo install <pakke>`, ikke `npm install`, så versjonene passer SDK-en.
+- Ikke rediger `ios/` eller `android/` for hånd. De genereres. Native oppsett gjøres i `app.json`.
+- Bak en proxy som blokkerer Expo sine API-er: bruk `EXPO_OFFLINE=1` foran kommandoen.
 
 ## Viktige dokumenter
 

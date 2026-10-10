@@ -1,0 +1,314 @@
+{
+  "id": "sport-og-fritid",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "⚽",
+  "words": [
+    {
+      "word": "Fotball",
+      "hint": "Mål",
+      "pair": "Håndball",
+      "difficulty": 2
+    },
+    {
+      "word": "Håndball",
+      "hint": "Kaste",
+      "pair": "Basketball",
+      "difficulty": 2
+    },
+    {
+      "word": "Langrenn",
+      "hint": "Smøring",
+      "pair": "Skiskyting",
+      "difficulty": 2
+    },
+    {
+      "word": "Skiskyting",
+      "hint": "Blink",
+      "pair": "Langrenn",
+      "difficulty": 2
+    },
+    {
+      "word": "Skihopp",
+      "hint": "Bakke",
+      "pair": "Alpint",
+      "difficulty": 2
+    },
+    {
+      "word": "Alpint",
+      "hint": "Stolheis",
+      "pair": "Snowboard",
+      "difficulty": 2
+    },
+    {
+      "word": "Ishockey",
+      "hint": "Kølle",
+      "pair": "Bandy",
+      "difficulty": 3
+    },
+    {
+      "word": "Skøyter",
+      "hint": "Is",
+      "pair": "Rulleskøyter",
+      "difficulty": 2
+    },
+    {
+      "word": "Tennis",
+      "hint": "Racket",
+      "pair": "Padel",
+      "difficulty": 3
+    },
+    {
+      "word": "Padel",
+      "hint": "Trend",
+      "pair": "Badminton",
+      "difficulty": 2
+    },
+    {
+      "word": "Golf",
+      "hint": "Hull",
+      "pair": "Minigolf",
+      "difficulty": 2
+    },
+    {
+      "word": "Sjakk",
+      "hint": "Brett",
+      "pair": "Dam",
+      "difficulty": 2
+    },
+    {
+      "word": "Svømming",
+      "hint": "Basseng",
+      "pair": "Stup",
+      "difficulty": 2
+    },
+    {
+      "word": "Sykling",
+      "hint": "Hjelm",
+      "pair": "Spinning",
+      "difficulty": 2
+    },
+    {
+      "word": "Løping",
+      "hint": "Kondis",
+      "pair": "Orientering",
+      "difficulty": 2
+    },
+    {
+      "word": "Orientering",
+      "hint": "Kart",
+      "pair": "Geocaching",
+      "difficulty": 2
+    },
+    {
+      "word": "Fisking",
+      "hint": "Stang",
+      "pair": "Isfiske",
+      "difficulty": 2
+    },
+    {
+      "word": "Jakt",
+      "hint": "Høst",
+      "pair": "Fisking",
+      "difficulty": 2
+    },
+    {
+      "word": "Bowling",
+      "hint": "Kjegler",
+      "pair": "Curling",
+      "difficulty": 2
+    },
+    {
+      "word": "Curling",
+      "hint": "Kost",
+      "pair": "Boccia",
+      "difficulty": 2
+    },
+    {
+      "word": "Basketball",
+      "hint": "Kurv",
+      "pair": "Volleyball",
+      "difficulty": 2
+    },
+    {
+      "word": "Volleyball",
+      "hint": "Nett",
+      "pair": "Tennis",
+      "difficulty": 2
+    },
+    {
+      "word": "Boksing",
+      "hint": "Hansker",
+      "pair": "Bryting",
+      "difficulty": 2
+    },
+    {
+      "word": "Karate",
+      "hint": "Belte",
+      "pair": "Judo",
+      "difficulty": 3
+    },
+    {
+      "word": "Yoga",
+      "hint": "Matte",
+      "pair": "Pilates",
+      "difficulty": 3
+    },
+    {
+      "word": "Styrketrening",
+      "hint": "Muskler",
+      "pair": "Crossfit",
+      "difficulty": 2
+    },
+    {
+      "word": "Klatring",
+      "hint": "Tau",
+      "pair": "Buldring",
+      "difficulty": 3
+    },
+    {
+      "word": "Surfing",
+      "hint": "Bølger",
+      "pair": "Brettseiling",
+      "difficulty": 2
+    },
+    {
+      "word": "Seiling",
+      "hint": "Vind",
+      "pair": "Roing",
+      "difficulty": 2
+    },
+    {
+      "word": "Kajakk",
+      "hint": "Padling",
+      "pair": "Kano",
+      "difficulty": 3
+    },
+    {
+      "word": "Trampoline",
+      "hint": "Hoppe",
+      "pair": "Hoppeslott",
+      "difficulty": 2
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Rampe",
+      "pair": "Sparkesykkel",
+      "difficulty": 2
+    },
+    {
+      "word": "Dataspill",
+      "hint": "Skjerm",
+      "pair": "Brettspill",
+      "difficulty": 2
+    },
+    {
+      "word": "Brettspill",
+      "hint": "Terning",
+      "pair": "Kortspill",
+      "difficulty": 2
+    },
+    {
+      "word": "Puslespill",
+      "hint": "Brikker",
+      "pair": "Kryssord",
+      "difficulty": 2
+    },
+    {
+      "word": "Lesing",
+      "hint": "Bok",
+      "pair": "Podkast",
+      "difficulty": 2
+    },
+    {
+      "word": "Kino",
+      "hint": "Lerret",
+      "pair": "Teater",
+      "difficulty": 2
+    },
+    {
+      "word": "Konsert",
+      "hint": "Scene",
+      "pair": "Festival",
+      "difficulty": 2
+    },
+    {
+      "word": "Strikking",
+      "hint": "Garn",
+      "pair": "Hekling",
+      "difficulty": 3
+    },
+    {
+      "word": "Tegning",
+      "hint": "Blyant",
+      "pair": "Maling",
+      "difficulty": 2
+    },
+    {
+      "word": "Fotografering",
+      "hint": "Bilder",
+      "pair": "Filming",
+      "difficulty": 2
+    },
+    {
+      "word": "Dans",
+      "hint": "Musikk",
+      "pair": "Ballett",
+      "difficulty": 2
+    },
+    {
+      "word": "Fjelltur",
+      "hint": "Ryggsekk",
+      "pair": "Skitur",
+      "difficulty": 2
+    },
+    {
+      "word": "Camping",
+      "hint": "Telt",
+      "pair": "Bobil",
+      "difficulty": 2
+    },
+    {
+      "word": "Bading",
+      "hint": "Strand",
+      "pair": "Isbading",
+      "difficulty": 2
+    },
+    {
+      "word": "Friidrett",
+      "hint": "Stadion",
+      "pair": "Turn",
+      "difficulty": 2
+    },
+    {
+      "word": "Ridning",
+      "hint": "Sal",
+      "pair": "Travløp",
+      "difficulty": 2
+    },
+    {
+      "word": "Quiz",
+      "hint": "Spørsmål",
+      "pair": "Bingo",
+      "difficulty": 2
+    },
+    {
+      "word": "Karaoke",
+      "hint": "Mikrofon",
+      "pair": "Allsang",
+      "difficulty": 2
+    },
+    {
+      "word": "Paintball",
+      "hint": "Skudd",
+      "pair": "Lasertag",
+      "difficulty": 3
+    },
+    {
+      "word": "Rulleski",
+      "hint": "Asfalt",
+      "pair": "Rulleskøyter",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": "steder-i-norge",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "🏔️",
+  "words": [
+    {
+      "word": "Oslo",
+      "hint": "Hovedstad",
+      "pair": "Bergen",
+      "difficulty": 2
+    },
+    {
+      "word": "Bergen",
+      "hint": "Regn",
+      "pair": "Stavanger",
+      "difficulty": 2
+    },
+    {
+      "word": "Trondheim",
+      "hint": "Midt-Norge",
+      "pair": "Bergen",
+      "difficulty": 2
+    },
+    {
+      "word": "Tromsø",
+      "hint": "Nordlys",
+      "pair": "Bodø",
+      "difficulty": 2
+    },
+    {
+      "word": "Stavanger",
+      "hint": "Olje",
+      "pair": "Haugesund",
+      "difficulty": 2
+    },
+    {
+      "word": "Kristiansand",
+      "hint": "Sørlandet",
+      "pair": "Arendal",
+      "difficulty": 2
+    },
+    {
+      "word": "Lillehammer",
+      "hint": "Ski",
+      "pair": "Hamar",
+      "difficulty": 2
+    },
+    {
+      "word": "Lofoten",
+      "hint": "Øyer",
+      "pair": "Vesterålen",
+      "difficulty": 3
+    },
+    {
+      "word": "Svalbard",
+      "hint": "Kaldt",
+      "pair": "Finnmark",
+      "difficulty": 2
+    },
+    {
+      "word": "Nordkapp",
+      "hint": "Midnattssol",
+      "pair": "Lindesnes",
+      "difficulty": 2
+    },
+    {
+      "word": "Preikestolen",
+      "hint": "Utsikt",
+      "pair": "Trolltunga",
+      "difficulty": 3
+    },
+    {
+      "word": "Geirangerfjorden",
+      "hint": "Cruise",
+      "pair": "Sognefjorden",
+      "difficulty": 3
+    },
+    {
+      "word": "Holmenkollen",
+      "hint": "Hopp",
+      "pair": "Vikersund",
+      "difficulty": 3
+    },
+    {
+      "word": "Atlanterhavsveien",
+      "hint": "Kjøretur",
+      "pair": "Trollstigen",
+      "difficulty": 2
+    },
+    {
+      "word": "Bryggen",
+      "hint": "Trehus",
+      "pair": "Bakklandet",
+      "difficulty": 2
+    },
+    {
+      "word": "Slottet",
+      "hint": "Kongen",
+      "pair": "Stortinget",
+      "difficulty": 2
+    },
+    {
+      "word": "Stortinget",
+      "hint": "Politikk",
+      "pair": "Rådhuset",
+      "difficulty": 2
+    },
+    {
+      "word": "Operaen",
+      "hint": "Hvit",
+      "pair": "Munchmuseet",
+      "difficulty": 2
+    },
+    {
+      "word": "Vigelandsparken",
+      "hint": "Statuer",
+      "pair": "Slottsparken",
+      "difficulty": 3
+    },
+    {
+      "word": "Karl Johan",
+      "hint": "17. mai",
+      "pair": "Bogstadveien",
+      "difficulty": 2
+    },
+    {
+      "word": "Tusenfryd",
+      "hint": "Berg-og-dal-bane",
+      "pair": "Kongeparken",
+      "difficulty": 3
+    },
+    {
+      "word": "Dyreparken",
+      "hint": "Kaptein Sabeltann",
+      "pair": "Hunderfossen",
+      "difficulty": 2
+    },
+    {
+      "word": "Hardangervidda",
+      "hint": "Fjellplatå",
+      "pair": "Jotunheimen",
+      "difficulty": 2
+    },
+    {
+      "word": "Jotunheimen",
+      "hint": "Fjelltur",
+      "pair": "Rondane",
+      "difficulty": 2
+    },
+    {
+      "word": "Galdhøpiggen",
+      "hint": "Topp",
+      "pair": "Glittertind",
+      "difficulty": 3
+    },
+    {
+      "word": "Trolltunga",
+      "hint": "Fotografi",
+      "pair": "Kjeragbolten",
+      "difficulty": 3
+    },
+    {
+      "word": "Mjøsa",
+      "hint": "Innsjø",
+      "pair": "Tyrifjorden",
+      "difficulty": 3
+    },
+    {
+      "word": "Glomma",
+      "hint": "Elv",
+      "pair": "Drammenselva",
+      "difficulty": 2
+    },
+    {
+      "word": "Telemark",
+      "hint": "Kanal",
+      "pair": "Setesdal",
+      "difficulty": 2
+    },
+    {
+      "word": "Senja",
+      "hint": "Nord-Norge",
+      "pair": "Lyngen",
+      "difficulty": 3
+    },
+    {
+      "word": "Ålesund",
+      "hint": "Jugend",
+      "pair": "Molde",
+      "difficulty": 2
+    },
+    {
+      "word": "Molde",
+      "hint": "Roser",
+      "pair": "Kristiansund",
+      "difficulty": 2
+    },
+    {
+      "word": "Drammen",
+      "hint": "Nær Oslo",
+      "pair": "Sandvika",
+      "difficulty": 2
+    },
+    {
+      "word": "Fredrikstad",
+      "hint": "Festning",
+      "pair": "Halden",
+      "difficulty": 2
+    },
+    {
+      "word": "Bodø",
+      "hint": "Glimt",
+      "pair": "Narvik",
+      "difficulty": 2
+    },
+    {
+      "word": "Hamar",
+      "hint": "Skøyter",
+      "pair": "Gjøvik",
+      "difficulty": 2
+    },
+    {
+      "word": "Hammerfest",
+      "hint": "Gass",
+      "pair": "Honningsvåg",
+      "difficulty": 2
+    },
+    {
+      "word": "Kautokeino",
+      "hint": "Samisk",
+      "pair": "Karasjok",
+      "difficulty": 3
+    },
+    {
+      "word": "Røros",
+      "hint": "Bergstad",
+      "pair": "Kongsberg",
+      "difficulty": 2
+    },
+    {
+      "word": "Flåmsbana",
+      "hint": "Tog",
+      "pair": "Bergensbanen",
+      "difficulty": 2
+    },
+    {
+      "word": "Bergensbanen",
+      "hint": "Høyfjell",
+      "pair": "Dovrebanen",
+      "difficulty": 2
+    },
+    {
+      "word": "Hurtigruten",
+      "hint": "Skip",
+      "pair": "Ferje",
+      "difficulty": 2
+    },
+    {
+      "word": "Gardermoen",
+      "hint": "Fly",
+      "pair": "Flesland",
+      "difficulty": 2
+    },
+    {
+      "word": "Ullevaal",
+      "hint": "Landskamp",
+      "pair": "Lerkendal",
+      "difficulty": 2
+    },
+    {
+      "word": "Fjord",
+      "hint": "Bratt",
+      "pair": "Vik",
+      "difficulty": 2
+    },
+    {
+      "word": "Seter",
+      "hint": "Sommer",
+      "pair": "Fjellgård",
+      "difficulty": 3
+    },
+    {
+      "word": "Stabbur",
+      "hint": "Gård",
+      "pair": "Låve",
+      "difficulty": 2
+    },
+    {
+      "word": "Stavkirke",
+      "hint": "Middelalder",
+      "pair": "Domkirke",
+      "difficulty": 2
+    },
+    {
+      "word": "Nidarosdomen",
+      "hint": "Pilegrim",
+      "pair": "Ishavskatedralen",
+      "difficulty": 2
+    },
+    {
+      "word": "Akershus festning",
+      "hint": "Kanoner",
+      "pair": "Bergenhus",
+      "difficulty": 3
+    }
+  ]
+}

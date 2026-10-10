@@ -1,0 +1,308 @@
+{
+  "id": "hjemme-og-hytta",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "🏡",
+  "words": [
+    {
+      "word": "Sofa",
+      "hint": "Stue",
+      "pair": "Lenestol",
+      "difficulty": 2
+    },
+    {
+      "word": "Seng",
+      "hint": "Pute",
+      "pair": "Sovesofa",
+      "difficulty": 2
+    },
+    {
+      "word": "Kjøleskap",
+      "hint": "Kaldt",
+      "pair": "Fryser",
+      "difficulty": 3
+    },
+    {
+      "word": "Komfyr",
+      "hint": "Middag",
+      "pair": "Mikrobølgeovn",
+      "difficulty": 2
+    },
+    {
+      "word": "Oppvaskmaskin",
+      "hint": "Kjøkken",
+      "pair": "Vaskemaskin",
+      "difficulty": 2
+    },
+    {
+      "word": "Støvsuger",
+      "hint": "Gulv",
+      "pair": "Kost",
+      "difficulty": 2
+    },
+    {
+      "word": "TV",
+      "hint": "Kanal",
+      "pair": "Radio",
+      "difficulty": 2
+    },
+    {
+      "word": "Mobil",
+      "hint": "Lader",
+      "pair": "Nettbrett",
+      "difficulty": 2
+    },
+    {
+      "word": "Lampe",
+      "hint": "Lys",
+      "pair": "Stearinlys",
+      "difficulty": 2
+    },
+    {
+      "word": "Stearinlys",
+      "hint": "Fyrstikk",
+      "pair": "Parafinlampe",
+      "difficulty": 2
+    },
+    {
+      "word": "Peis",
+      "hint": "Flammer",
+      "pair": "Vedovn",
+      "difficulty": 3
+    },
+    {
+      "word": "Badstue",
+      "hint": "Varm",
+      "pair": "Boblebad",
+      "difficulty": 2
+    },
+    {
+      "word": "Dusj",
+      "hint": "Morgen",
+      "pair": "Badekar",
+      "difficulty": 2
+    },
+    {
+      "word": "Utedo",
+      "hint": "Hjerte",
+      "pair": "Toalett",
+      "difficulty": 2
+    },
+    {
+      "word": "Speil",
+      "hint": "Glass",
+      "pair": "Vindu",
+      "difficulty": 2
+    },
+    {
+      "word": "Vindu",
+      "hint": "Utsikt",
+      "pair": "Dør",
+      "difficulty": 2
+    },
+    {
+      "word": "Dør",
+      "hint": "Nøkkel",
+      "pair": "Port",
+      "difficulty": 2
+    },
+    {
+      "word": "Trapp",
+      "hint": "Etasje",
+      "pair": "Stige",
+      "difficulty": 2
+    },
+    {
+      "word": "Garasje",
+      "hint": "Bil",
+      "pair": "Carport",
+      "difficulty": 3
+    },
+    {
+      "word": "Hage",
+      "hint": "Plen",
+      "pair": "Balkong",
+      "difficulty": 2
+    },
+    {
+      "word": "Grill",
+      "hint": "Pølser",
+      "pair": "Bål",
+      "difficulty": 2
+    },
+    {
+      "word": "Bål",
+      "hint": "Pinnebrød",
+      "pair": "Fakkel",
+      "difficulty": 2
+    },
+    {
+      "word": "Hengekøye",
+      "hint": "Trær",
+      "pair": "Solseng",
+      "difficulty": 2
+    },
+    {
+      "word": "Robåt",
+      "hint": "Årer",
+      "pair": "Seilbåt",
+      "difficulty": 2
+    },
+    {
+      "word": "Ved",
+      "hint": "Stabel",
+      "pair": "Pellets",
+      "difficulty": 2
+    },
+    {
+      "word": "Øks",
+      "hint": "Hogge",
+      "pair": "Sag",
+      "difficulty": 2
+    },
+    {
+      "word": "Hammer",
+      "hint": "Spiker",
+      "pair": "Skrutrekker",
+      "difficulty": 2
+    },
+    {
+      "word": "Termos",
+      "hint": "Tur",
+      "pair": "Drikkeflaske",
+      "difficulty": 2
+    },
+    {
+      "word": "Kortstokk",
+      "hint": "Kabal",
+      "pair": "Terninger",
+      "difficulty": 2
+    },
+    {
+      "word": "Ullsokker",
+      "hint": "Strikket",
+      "pair": "Tøfler",
+      "difficulty": 2
+    },
+    {
+      "word": "Dyne",
+      "hint": "Fjær",
+      "pair": "Pledd",
+      "difficulty": 2
+    },
+    {
+      "word": "Pute",
+      "hint": "Sove",
+      "pair": "Sittepute",
+      "difficulty": 2
+    },
+    {
+      "word": "Gardiner",
+      "hint": "Stoff",
+      "pair": "Persienner",
+      "difficulty": 3
+    },
+    {
+      "word": "Klokke",
+      "hint": "Tid",
+      "pair": "Vekkerklokke",
+      "difficulty": 3
+    },
+    {
+      "word": "Kaffetrakter",
+      "hint": "Filter",
+      "pair": "Vannkoker",
+      "difficulty": 2
+    },
+    {
+      "word": "Brødrister",
+      "hint": "Frokost",
+      "pair": "Vaffeljern",
+      "difficulty": 2
+    },
+    {
+      "word": "Kniv",
+      "hint": "Skjære",
+      "pair": "Saks",
+      "difficulty": 2
+    },
+    {
+      "word": "Gaffel",
+      "hint": "Middag",
+      "pair": "Skje",
+      "difficulty": 2
+    },
+    {
+      "word": "Tallerken",
+      "hint": "Oppvask",
+      "pair": "Fat",
+      "difficulty": 3
+    },
+    {
+      "word": "Kopp",
+      "hint": "Hank",
+      "pair": "Krus",
+      "difficulty": 3
+    },
+    {
+      "word": "Postkasse",
+      "hint": "Brev",
+      "pair": "Pakkeboks",
+      "difficulty": 2
+    },
+    {
+      "word": "Ringeklokke",
+      "hint": "Besøk",
+      "pair": "Porttelefon",
+      "difficulty": 2
+    },
+    {
+      "word": "Røykvarsler",
+      "hint": "Pip",
+      "pair": "Brannslukker",
+      "difficulty": 2
+    },
+    {
+      "word": "Kjeller",
+      "hint": "Mørk",
+      "pair": "Loft",
+      "difficulty": 2
+    },
+    {
+      "word": "Loft",
+      "hint": "Tak",
+      "pair": "Bod",
+      "difficulty": 2
+    },
+    {
+      "word": "Snøskuffe",
+      "hint": "Vinter",
+      "pair": "Snøfreser",
+      "difficulty": 2
+    },
+    {
+      "word": "Akebrett",
+      "hint": "Bakke",
+      "pair": "Rattkjelke",
+      "difficulty": 3
+    },
+    {
+      "word": "Hyttebok",
+      "hint": "Gjester",
+      "pair": "Gjestebok",
+      "difficulty": 3
+    },
+    {
+      "word": "Torvtak",
+      "hint": "Gress",
+      "pair": "Skifertak",
+      "difficulty": 2
+    },
+    {
+      "word": "Paraply",
+      "hint": "Regn",
+      "pair": "Regnjakke",
+      "difficulty": 2
+    }
+  ]
+}

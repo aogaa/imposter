@@ -1,0 +1,326 @@
+{
+  "id": "dyr",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "🐻",
+  "words": [
+    {
+      "word": "Katt",
+      "hint": "Kjæledyr",
+      "pair": "Hund",
+      "difficulty": 1
+    },
+    {
+      "word": "Hund",
+      "hint": "Bånd",
+      "pair": "Ulv",
+      "difficulty": 2
+    },
+    {
+      "word": "Hest",
+      "hint": "Stall",
+      "pair": "Esel",
+      "difficulty": 2
+    },
+    {
+      "word": "Ku",
+      "hint": "Gård",
+      "pair": "Geit",
+      "difficulty": 2
+    },
+    {
+      "word": "Sau",
+      "hint": "Ull",
+      "pair": "Alpakka",
+      "difficulty": 2
+    },
+    {
+      "word": "Gris",
+      "hint": "Gjørme",
+      "pair": "Villsvin",
+      "difficulty": 2
+    },
+    {
+      "word": "Høne",
+      "hint": "Egg",
+      "pair": "And",
+      "difficulty": 2
+    },
+    {
+      "word": "Elg",
+      "hint": "Skog",
+      "pair": "Hjort",
+      "difficulty": 3
+    },
+    {
+      "word": "Reinsdyr",
+      "hint": "Vidda",
+      "pair": "Moskusfe",
+      "difficulty": 2
+    },
+    {
+      "word": "Ulv",
+      "hint": "Flokk",
+      "pair": "Gaupe",
+      "difficulty": 2
+    },
+    {
+      "word": "Rev",
+      "hint": "Lur",
+      "pair": "Grevling",
+      "difficulty": 2
+    },
+    {
+      "word": "Bjørn",
+      "hint": "Hi",
+      "pair": "Jerv",
+      "difficulty": 2
+    },
+    {
+      "word": "Ekorn",
+      "hint": "Kongle",
+      "pair": "Jordekorn",
+      "difficulty": 3
+    },
+    {
+      "word": "Hare",
+      "hint": "Lange ører",
+      "pair": "Kanin",
+      "difficulty": 3
+    },
+    {
+      "word": "Pinnsvin",
+      "hint": "Pigger",
+      "pair": "Muldvarp",
+      "difficulty": 2
+    },
+    {
+      "word": "Mus",
+      "hint": "Ost",
+      "pair": "Rotte",
+      "difficulty": 2
+    },
+    {
+      "word": "Hamster",
+      "hint": "Bur",
+      "pair": "Marsvin",
+      "difficulty": 3
+    },
+    {
+      "word": "Elefant",
+      "hint": "Stor",
+      "pair": "Neshorn",
+      "difficulty": 2
+    },
+    {
+      "word": "Giraff",
+      "hint": "Høy",
+      "pair": "Sebra",
+      "difficulty": 2
+    },
+    {
+      "word": "Løve",
+      "hint": "Konge",
+      "pair": "Tiger",
+      "difficulty": 2
+    },
+    {
+      "word": "Sebra",
+      "hint": "Afrika",
+      "pair": "Esel",
+      "difficulty": 2
+    },
+    {
+      "word": "Ape",
+      "hint": "Jungel",
+      "pair": "Lemur",
+      "difficulty": 2
+    },
+    {
+      "word": "Panda",
+      "hint": "Kina",
+      "pair": "Isbjørn",
+      "difficulty": 2
+    },
+    {
+      "word": "Kenguru",
+      "hint": "Australia",
+      "pair": "Koala",
+      "difficulty": 2
+    },
+    {
+      "word": "Isbjørn",
+      "hint": "Svalbard",
+      "pair": "Hvalross",
+      "difficulty": 2
+    },
+    {
+      "word": "Pingvin",
+      "hint": "Is",
+      "pair": "Lunde",
+      "difficulty": 2
+    },
+    {
+      "word": "Hval",
+      "hint": "Hav",
+      "pair": "Delfin",
+      "difficulty": 2
+    },
+    {
+      "word": "Hai",
+      "hint": "Finne",
+      "pair": "Spekkhogger",
+      "difficulty": 2
+    },
+    {
+      "word": "Sel",
+      "hint": "Kyst",
+      "pair": "Oter",
+      "difficulty": 2
+    },
+    {
+      "word": "Krokodille",
+      "hint": "Elv",
+      "pair": "Alligator",
+      "difficulty": 3
+    },
+    {
+      "word": "Slange",
+      "hint": "Kryper",
+      "pair": "Øgle",
+      "difficulty": 2
+    },
+    {
+      "word": "Skilpadde",
+      "hint": "Skall",
+      "pair": "Snegle",
+      "difficulty": 2
+    },
+    {
+      "word": "Frosk",
+      "hint": "Dam",
+      "pair": "Padde",
+      "difficulty": 3
+    },
+    {
+      "word": "Gullfisk",
+      "hint": "Akvarium",
+      "pair": "Guppy",
+      "difficulty": 3
+    },
+    {
+      "word": "Ørn",
+      "hint": "Fjell",
+      "pair": "Falk",
+      "difficulty": 3
+    },
+    {
+      "word": "Ugle",
+      "hint": "Natt",
+      "pair": "Flaggermus",
+      "difficulty": 2
+    },
+    {
+      "word": "Måke",
+      "hint": "Skriker",
+      "pair": "Due",
+      "difficulty": 2
+    },
+    {
+      "word": "Kråke",
+      "hint": "Svart",
+      "pair": "Ravn",
+      "difficulty": 3
+    },
+    {
+      "word": "Papegøye",
+      "hint": "Farger",
+      "pair": "Undulat",
+      "difficulty": 3
+    },
+    {
+      "word": "Struts",
+      "hint": "Sand",
+      "pair": "Emu",
+      "difficulty": 3
+    },
+    {
+      "word": "Flamingo",
+      "hint": "Rosa",
+      "pair": "Hegre",
+      "difficulty": 2
+    },
+    {
+      "word": "Bie",
+      "hint": "Stikk",
+      "pair": "Veps",
+      "difficulty": 2
+    },
+    {
+      "word": "Maur",
+      "hint": "Tue",
+      "pair": "Termitt",
+      "difficulty": 3
+    },
+    {
+      "word": "Edderkopp",
+      "hint": "Nett",
+      "pair": "Skorpion",
+      "difficulty": 2
+    },
+    {
+      "word": "Sommerfugl",
+      "hint": "Larve",
+      "pair": "Møll",
+      "difficulty": 2
+    },
+    {
+      "word": "Mygg",
+      "hint": "Kløe",
+      "pair": "Flue",
+      "difficulty": 2
+    },
+    {
+      "word": "Meitemark",
+      "hint": "Regn",
+      "pair": "Snegle",
+      "difficulty": 2
+    },
+    {
+      "word": "Kamel",
+      "hint": "Ørken",
+      "pair": "Lama",
+      "difficulty": 2
+    },
+    {
+      "word": "Gorilla",
+      "hint": "Sterk",
+      "pair": "Sjimpanse",
+      "difficulty": 3
+    },
+    {
+      "word": "Neshorn",
+      "hint": "Horn",
+      "pair": "Flodhest",
+      "difficulty": 2
+    },
+    {
+      "word": "Blekksprut",
+      "hint": "Åtte",
+      "pair": "Manet",
+      "difficulty": 2
+    },
+    {
+      "word": "Hummer",
+      "hint": "Klør",
+      "pair": "Kreps",
+      "difficulty": 3
+    },
+    {
+      "word": "Lemen",
+      "hint": "Vandring",
+      "pair": "Hamster",
+      "difficulty": 2
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "id": "jobber",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "🧑‍🚒",
+  "words": [
+    {
+      "word": "Lege",
+      "hint": "Sykehus",
+      "pair": "Sykepleier",
+      "difficulty": 2
+    },
+    {
+      "word": "Sykepleier",
+      "hint": "Omsorg",
+      "pair": "Jordmor",
+      "difficulty": 2
+    },
+    {
+      "word": "Tannlege",
+      "hint": "Munn",
+      "pair": "Kirurg",
+      "difficulty": 2
+    },
+    {
+      "word": "Lærer",
+      "hint": "Tavle",
+      "pair": "Rektor",
+      "difficulty": 2
+    },
+    {
+      "word": "Politi",
+      "hint": "Sirene",
+      "pair": "Vekter",
+      "difficulty": 2
+    },
+    {
+      "word": "Brannmann",
+      "hint": "Slange",
+      "pair": "Ambulansearbeider",
+      "difficulty": 2
+    },
+    {
+      "word": "Bonde",
+      "hint": "Traktor",
+      "pair": "Gartner",
+      "difficulty": 2
+    },
+    {
+      "word": "Fisker",
+      "hint": "Båt",
+      "pair": "Sjømann",
+      "difficulty": 2
+    },
+    {
+      "word": "Kokk",
+      "hint": "Kjøkken",
+      "pair": "Baker",
+      "difficulty": 2
+    },
+    {
+      "word": "Baker",
+      "hint": "Mel",
+      "pair": "Konditor",
+      "difficulty": 3
+    },
+    {
+      "word": "Frisør",
+      "hint": "Hår",
+      "pair": "Barberer",
+      "difficulty": 3
+    },
+    {
+      "word": "Snekker",
+      "hint": "Hammer",
+      "pair": "Tømrer",
+      "difficulty": 3
+    },
+    {
+      "word": "Elektriker",
+      "hint": "Strøm",
+      "pair": "Rørlegger",
+      "difficulty": 2
+    },
+    {
+      "word": "Maler",
+      "hint": "Pensel",
+      "pair": "Tapetserer",
+      "difficulty": 3
+    },
+    {
+      "word": "Kunstner",
+      "hint": "Atelier",
+      "pair": "Designer",
+      "difficulty": 2
+    },
+    {
+      "word": "Fotograf",
+      "hint": "Bilder",
+      "pair": "Kameramann",
+      "difficulty": 3
+    },
+    {
+      "word": "Journalist",
+      "hint": "Nyheter",
+      "pair": "Programleder",
+      "difficulty": 2
+    },
+    {
+      "word": "Skuespiller",
+      "hint": "Scene",
+      "pair": "Sanger",
+      "difficulty": 2
+    },
+    {
+      "word": "Sanger",
+      "hint": "Mikrofon",
+      "pair": "Rapper",
+      "difficulty": 2
+    },
+    {
+      "word": "Pilot",
+      "hint": "Cockpit",
+      "pair": "Kabinansatt",
+      "difficulty": 2
+    },
+    {
+      "word": "Bussjåfør",
+      "hint": "Holdeplass",
+      "pair": "Trikkefører",
+      "difficulty": 2
+    },
+    {
+      "word": "Taxisjåfør",
+      "hint": "Taksameter",
+      "pair": "Bussjåfør",
+      "difficulty": 2
+    },
+    {
+      "word": "Postbud",
+      "hint": "Brev",
+      "pair": "Matbud",
+      "difficulty": 2
+    },
+    {
+      "word": "Kassamedarbeider",
+      "hint": "Strekkode",
+      "pair": "Servitør",
+      "difficulty": 2
+    },
+    {
+      "word": "Servitør",
+      "hint": "Bestilling",
+      "pair": "Bartender",
+      "difficulty": 2
+    },
+    {
+      "word": "Bibliotekar",
+      "hint": "Stille",
+      "pair": "Bokhandler",
+      "difficulty": 2
+    },
+    {
+      "word": "Advokat",
+      "hint": "Rett",
+      "pair": "Dommer",
+      "difficulty": 2
+    },
+    {
+      "word": "Prest",
+      "hint": "Kirke",
+      "pair": "Organist",
+      "difficulty": 2
+    },
+    {
+      "word": "Forsker",
+      "hint": "Laboratorium",
+      "pair": "Professor",
+      "difficulty": 2
+    },
+    {
+      "word": "Astronaut",
+      "hint": "Rommet",
+      "pair": "Pilot",
+      "difficulty": 2
+    },
+    {
+      "word": "Programmerer",
+      "hint": "Kode",
+      "pair": "Webdesigner",
+      "difficulty": 2
+    },
+    {
+      "word": "Influenser",
+      "hint": "Følgere",
+      "pair": "YouTuber",
+      "difficulty": 3
+    },
+    {
+      "word": "Veterinær",
+      "hint": "Kjæledyr",
+      "pair": "Dyrepasser",
+      "difficulty": 2
+    },
+    {
+      "word": "Vaktmester",
+      "hint": "Reparerer",
+      "pair": "Renholder",
+      "difficulty": 2
+    },
+    {
+      "word": "Mekaniker",
+      "hint": "Verksted",
+      "pair": "Bilselger",
+      "difficulty": 2
+    },
+    {
+      "word": "Arkitekt",
+      "hint": "Tegninger",
+      "pair": "Ingeniør",
+      "difficulty": 2
+    },
+    {
+      "word": "Soldat",
+      "hint": "Uniform",
+      "pair": "Livvakt",
+      "difficulty": 2
+    },
+    {
+      "word": "Kaptein",
+      "hint": "Skip",
+      "pair": "Styrmann",
+      "difficulty": 3
+    },
+    {
+      "word": "Statsminister",
+      "hint": "Regjering",
+      "pair": "Ordfører",
+      "difficulty": 2
+    },
+    {
+      "word": "Trener",
+      "hint": "Fløyte",
+      "pair": "Dommer",
+      "difficulty": 2
+    },
+    {
+      "word": "Barnehagelærer",
+      "hint": "Lek",
+      "pair": "Dagmamma",
+      "difficulty": 2
+    },
+    {
+      "word": "Psykolog",
+      "hint": "Samtale",
+      "pair": "Rådgiver",
+      "difficulty": 2
+    },
+    {
+      "word": "Tryllekunstner",
+      "hint": "Triks",
+      "pair": "Klovn",
+      "difficulty": 2
+    },
+    {
+      "word": "Detektiv",
+      "hint": "Spor",
+      "pair": "Spion",
+      "difficulty": 2
+    },
+    {
+      "word": "Eiendomsmegler",
+      "hint": "Visning",
+      "pair": "Bankrådgiver",
+      "difficulty": 2
+    },
+    {
+      "word": "Kirurg",
+      "hint": "Operasjon",
+      "pair": "Narkoselege",
+      "difficulty": 3
+    },
+    {
+      "word": "Gartner",
+      "hint": "Planter",
+      "pair": "Blomsterhandler",
+      "difficulty": 3
+    },
+    {
+      "word": "Slakter",
+      "hint": "Kjøtt",
+      "pair": "Fiskehandler",
+      "difficulty": 2
+    },
+    {
+      "word": "Rørlegger",
+      "hint": "Lekkasje",
+      "pair": "Vaktmester",
+      "difficulty": 2
+    },
+    {
+      "word": "Tolk",
+      "hint": "Språk",
+      "pair": "Oversetter",
+      "difficulty": 3
+    }
+  ]
+}

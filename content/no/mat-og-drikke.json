@@ -1,0 +1,332 @@
+{
+  "id": "mat-og-drikke",
+  "tier": "free",
+  "ageRating": "all",
+  "icon": "🍕",
+  "words": [
+    {
+      "word": "Pizza",
+      "hint": "Italia",
+      "pair": "Pai",
+      "difficulty": 2
+    },
+    {
+      "word": "Taco",
+      "hint": "Fredag",
+      "pair": "Burrito",
+      "difficulty": 2
+    },
+    {
+      "word": "Brunost",
+      "hint": "Geit",
+      "pair": "Gulost",
+      "difficulty": 2
+    },
+    {
+      "word": "Pølse",
+      "hint": "Grill",
+      "pair": "Kebab",
+      "difficulty": 2
+    },
+    {
+      "word": "Vafler",
+      "hint": "Hjerte",
+      "pair": "Pannekaker",
+      "difficulty": 2
+    },
+    {
+      "word": "Kaffe",
+      "hint": "Morgen",
+      "pair": "Te",
+      "difficulty": 2
+    },
+    {
+      "word": "Melk",
+      "hint": "Ku",
+      "pair": "Yoghurt",
+      "difficulty": 2
+    },
+    {
+      "word": "Kjøttkaker",
+      "hint": "Brun saus",
+      "pair": "Kjøttboller",
+      "difficulty": 3
+    },
+    {
+      "word": "Fårikål",
+      "hint": "Høst",
+      "pair": "Lapskaus",
+      "difficulty": 2
+    },
+    {
+      "word": "Rakfisk",
+      "hint": "Lukt",
+      "pair": "Lutefisk",
+      "difficulty": 3
+    },
+    {
+      "word": "Pinnekjøtt",
+      "hint": "Jul",
+      "pair": "Ribbe",
+      "difficulty": 2
+    },
+    {
+      "word": "Laks",
+      "hint": "Rosa",
+      "pair": "Ørret",
+      "difficulty": 3
+    },
+    {
+      "word": "Sushi",
+      "hint": "Japan",
+      "pair": "Sashimi",
+      "difficulty": 3
+    },
+    {
+      "word": "Spaghetti",
+      "hint": "Lang",
+      "pair": "Lasagne",
+      "difficulty": 2
+    },
+    {
+      "word": "Grandiosa",
+      "hint": "Fryser",
+      "pair": "Fiskegrateng",
+      "difficulty": 1
+    },
+    {
+      "word": "Banan",
+      "hint": "Gul",
+      "pair": "Mango",
+      "difficulty": 1
+    },
+    {
+      "word": "Eple",
+      "hint": "Tre",
+      "pair": "Pære",
+      "difficulty": 2
+    },
+    {
+      "word": "Jordbær",
+      "hint": "Sommer",
+      "pair": "Bringebær",
+      "difficulty": 3
+    },
+    {
+      "word": "Appelsin",
+      "hint": "Påske",
+      "pair": "Mandarin",
+      "difficulty": 3
+    },
+    {
+      "word": "Sjokolade",
+      "hint": "Søtt",
+      "pair": "Karamell",
+      "difficulty": 2
+    },
+    {
+      "word": "Is",
+      "hint": "Kald",
+      "pair": "Sorbet",
+      "difficulty": 2
+    },
+    {
+      "word": "Popcorn",
+      "hint": "Kino",
+      "pair": "Peanøtter",
+      "difficulty": 2
+    },
+    {
+      "word": "Brød",
+      "hint": "Bakeri",
+      "pair": "Rundstykke",
+      "difficulty": 3
+    },
+    {
+      "word": "Knekkebrød",
+      "hint": "Sprø",
+      "pair": "Kjeks",
+      "difficulty": 2
+    },
+    {
+      "word": "Smør",
+      "hint": "Brødskive",
+      "pair": "Margarin",
+      "difficulty": 3
+    },
+    {
+      "word": "Ost",
+      "hint": "Høvel",
+      "pair": "Smøreost",
+      "difficulty": 2
+    },
+    {
+      "word": "Egg",
+      "hint": "Høne",
+      "pair": "Omelett",
+      "difficulty": 2
+    },
+    {
+      "word": "Bacon",
+      "hint": "Stekepanne",
+      "pair": "Skinke",
+      "difficulty": 2
+    },
+    {
+      "word": "Hamburger",
+      "hint": "Brød",
+      "pair": "Sandwich",
+      "difficulty": 2
+    },
+    {
+      "word": "Suppe",
+      "hint": "Skje",
+      "pair": "Grøt",
+      "difficulty": 2
+    },
+    {
+      "word": "Risengrynsgrøt",
+      "hint": "Mandel",
+      "pair": "Havregrøt",
+      "difficulty": 3
+    },
+    {
+      "word": "Bløtkake",
+      "hint": "Bursdag",
+      "pair": "Kransekake",
+      "difficulty": 2
+    },
+    {
+      "word": "Kanelbolle",
+      "hint": "Krydder",
+      "pair": "Skolebolle",
+      "difficulty": 3
+    },
+    {
+      "word": "Lefse",
+      "hint": "Smør og sukker",
+      "pair": "Lompe",
+      "difficulty": 3
+    },
+    {
+      "word": "Cola",
+      "hint": "Brus",
+      "pair": "Solo",
+      "difficulty": 2
+    },
+    {
+      "word": "Juice",
+      "hint": "Frokost",
+      "pair": "Smoothie",
+      "difficulty": 2
+    },
+    {
+      "word": "Vann",
+      "hint": "Kran",
+      "pair": "Farris",
+      "difficulty": 2
+    },
+    {
+      "word": "Kakao",
+      "hint": "Vinter",
+      "pair": "Kaffe",
+      "difficulty": 2
+    },
+    {
+      "word": "Tomat",
+      "hint": "Rød",
+      "pair": "Paprika",
+      "difficulty": 2
+    },
+    {
+      "word": "Agurk",
+      "hint": "Grønn",
+      "pair": "Squash",
+      "difficulty": 3
+    },
+    {
+      "word": "Gulrot",
+      "hint": "Oransje",
+      "pair": "Pastinakk",
+      "difficulty": 3
+    },
+    {
+      "word": "Potet",
+      "hint": "Jord",
+      "pair": "Søtpotet",
+      "difficulty": 2
+    },
+    {
+      "word": "Løk",
+      "hint": "Tårer",
+      "pair": "Hvitløk",
+      "difficulty": 2
+    },
+    {
+      "word": "Mais",
+      "hint": "Kolbe",
+      "pair": "Erter",
+      "difficulty": 2
+    },
+    {
+      "word": "Nudler",
+      "hint": "Asia",
+      "pair": "Ris",
+      "difficulty": 2
+    },
+    {
+      "word": "Kylling",
+      "hint": "Vinge",
+      "pair": "Kalkun",
+      "difficulty": 2
+    },
+    {
+      "word": "Reker",
+      "hint": "Brygge",
+      "pair": "Krabbe",
+      "difficulty": 2
+    },
+    {
+      "word": "Leverpostei",
+      "hint": "Pålegg",
+      "pair": "Kaviar",
+      "difficulty": 2
+    },
+    {
+      "word": "Nugatti",
+      "hint": "Søtt pålegg",
+      "pair": "Peanøttsmør",
+      "difficulty": 2
+    },
+    {
+      "word": "Syltetøy",
+      "hint": "Glass",
+      "pair": "Honning",
+      "difficulty": 2
+    },
+    {
+      "word": "Pepperkaker",
+      "hint": "Desember",
+      "pair": "Sandkaker",
+      "difficulty": 2
+    },
+    {
+      "word": "Lakris",
+      "hint": "Svart",
+      "pair": "Vingummi",
+      "difficulty": 2
+    },
+    {
+      "word": "Pommes frites",
+      "hint": "Gatekjøkken",
+      "pair": "Potetmos",
+      "difficulty": 2
+    },
+    {
+      "word": "Makrell i tomat",
+      "hint": "Boks",
+      "pair": "Sardiner",
+      "difficulty": 2
+    }
+  ]
+}
