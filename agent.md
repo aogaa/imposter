@@ -34,7 +34,9 @@ Et norsk-først sosialt bløffespill i Imposter-sjangeren (alle unntatt én får
 ## Mappestruktur
 
 ```
-src/app/        Skjermer (Expo Router: hver fil er en rute, _layout.tsx er navigasjon)
+src/app/        Skjermer (Expo Router): index (start), setup (oppsett), play (hele runden)
+src/components/ Felles UI-komponenter (Screen, Button, Chip, Card)
+src/store/      Zustand-tilstand; oppsett og historikk lagres med AsyncStorage
 src/game/       Spillmotor: roller, trekking, runder, avstemning (ren TS, testbar)
 src/i18n/       i18next-oppsett og UI-tekster per språk (locales/no.ts er referansen)
 src/content/    Laster ordlistene for valgt språk

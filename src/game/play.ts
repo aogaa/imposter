@@ -59,11 +59,14 @@ export function vote(state: GameState, round: Round, playerId: string): GameStat
 
 /** A caught imposter or Mr. White tries to guess the civilians' word. */
 export function guess(state: GameState, round: Round, text: string): GameState {
+  return resolveGuess(state, round, isCorrectGuess(text, round.civilianWord));
+}
+
+/** Same as guess(), for when the group judges a guess said out loud. */
+export function resolveGuess(state: GameState, round: Round, correct: boolean): GameState {
   if (state.phase !== 'guessing' || !state.guessingPlayerId) throw new Error('Nobody is guessing');
   const role = roleOf(round, state.guessingPlayerId);
-  if (isCorrectGuess(text, round.civilianWord)) {
-    return over(state, role === 'mrwhite' ? 'mrwhite' : 'infiltrators');
-  }
+  if (correct) return over(state, role === 'mrwhite' ? 'mrwhite' : 'infiltrators');
   return settle(state, round);
 }
 

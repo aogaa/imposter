@@ -7,6 +7,7 @@ import {
   infiltratorIds,
   isCorrectGuess,
   pickWord,
+  resolveGuess,
   recommendedImposterCount,
   recommendedUndercover,
   startGame,
@@ -179,6 +180,13 @@ describe('classic game flow', () => {
     let state = vote(startGame(), round, playerWith(round, 'imposter'));
     state = guess(state, round, 'feil ord');
     expect(state).toMatchObject({ phase: 'over', winner: 'civilians' });
+  });
+
+  it('the group can judge a spoken guess', () => {
+    const round = setup();
+    const caught = vote(startGame(), round, playerWith(round, 'imposter'));
+    expect(resolveGuess(caught, round, true)).toMatchObject({ phase: 'over', winner: 'infiltrators' });
+    expect(resolveGuess(caught, round, false)).toMatchObject({ phase: 'over', winner: 'civilians' });
   });
 
   it('with two imposters, both must be found', () => {
