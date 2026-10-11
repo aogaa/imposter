@@ -10,12 +10,11 @@ Norsk-først sosialt bløffespill for iOS og Android. Alle unntatt én får et h
 
 Nye økter (mennesker og AI-agenter): les [`agent.md`](agent.md) og deretter [`progress.md`](progress.md).
 
-Kode kommer i fase 1. Når den er på plass:
-
 ```bash
 npm install
-npx expo start --web   # test i nettleser
-npx expo start         # test på telefon med Expo Go
+npm run web   # test i nettleser
+npm start     # test på telefon med Expo Go
+npm test      # tester for spillmotoren
 ```
 
 ## Dokumentasjon
