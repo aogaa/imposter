@@ -4,18 +4,20 @@ Nyeste øverst. Oppdateres ved slutten av hver arbeidsøkt (se `agent.md`).
 
 ## Status nå
 
-**Fase:** 1, spillbar prototype. Expo-prosjekt, spillmotor og utkast til ordlister er på plass. Ingen spillskjermer ennå.
+**Fase:** 1, spillbar prototype. Expo-prosjekt, spillmotor og godkjente ordlister er på plass. Ingen spillskjermer ennå.
 
 **Neste steg:**
-1. Espen går gjennom ordlisteutkastene (se `content/no/STATUS.md`). Rett opp etter tilbakemelding.
-2. Bygg skjermflyten: velg modus og kategorier → spillere → innstillinger → send telefonen rundt (vis rolle) → hvem starter → diskusjon med tidtaker → avstemning → avsløring/gjetting → resultat.
-3. Lagre spillere, innstillinger og brukte ord lokalt (Zustand + AsyncStorage er installert).
+1. Bygg skjermflyten: velg modus og kategorier → spillere → innstillinger → send telefonen rundt (vis rolle) → hvem starter → diskusjon med tidtaker → avstemning → avsløring/gjetting → resultat.
+2. Lagre spillere, innstillinger og brukte ord lokalt (Zustand + AsyncStorage er installert).
 
 **Åpne spørsmål:** Endelig navn på spillet (arbeidsnavn: Imposter).
 
 **Blokkert av:** Ingenting.
 
 ## Logg
+
+### 2026-10-11: Ordlister godkjent
+- Espen godkjente alle 6 gratis ordlister (308 ord) uten endringer.
 
 ### 2026-10-10: Fase 1 startet
 - Expo SDK 57 med TypeScript, Expo Router (`src/app/`), i18next (norsk + engelsk UI), Zustand og AsyncStorage.
